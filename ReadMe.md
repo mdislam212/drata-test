@@ -18,4 +18,22 @@ ii. Now open command promot/terminal and navigate to cloned project working dire
 
 iii. Run - 'npm install'  - it will install all required dependencies in your project working directory
 
+### Steps to Run API Test
+
+i. Open command prompt and run below command
+npm run test
+
+ii. Once after test execution verify results.
+
+
+### Steps to verify UI Test
+
+i. Open command prompt and run below command
+npx cypress run
+
+ii. Once after test execution verify results.
+
+
+
+
 
