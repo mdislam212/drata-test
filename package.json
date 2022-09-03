@@ -1,0 +1,17 @@
+{
+  "name": "drata-qatest",
+  "version": "1.0.0",
+  "description": "API and UI Test Created to submit Drata",
+  "main": "index.js",
+  "scripts": {
+    "test-ui": "npx cypress open",
+    "test-cli": "npx cypress run"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "cypress-xpath": "^2.0.1",
+    "jest": "^29.0.1"
+  }
+}
