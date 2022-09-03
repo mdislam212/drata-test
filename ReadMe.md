@@ -3,7 +3,15 @@
 ### Drata is a security  and compliance automation platform that continiously  monitors and collects evidences of company security and stream,lining securities.
 
 
-#### Step by Step Guide to Project Setup
+## **Step by Step Guide to Project Setup**
+
+### Pre requisite
+i. Nodejs should be installed on machine
+ii. NPM package installer should be installed
+iii. Visual Basic Code/or any javascript IDE should be available
+
+### **Steps:**
+
 I. Download or clone this project on your local machine
 
 ii. Now open command promot/terminal and navigate to cloned project working directort
